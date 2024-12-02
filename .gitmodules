@@ -1,0 +1,66 @@
+[submodule "goServer/src/github.com/desertbit/timer"]
+	path = goServer/src/github.com/desertbit/timer
+	url = https://github.com/desertbit/timer
+[submodule "goServer/src/github.com/golang/protobuf"]
+	path = goServer/src/github.com/golang/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "goServer/src/github.com/golang/websocket"]
+	path = goServer/src/github.com/golang/websocket
+	url = https://github.com/gorilla/websocket
+[submodule "goServer/src/github.com/gorilla/websocket"]
+	path = goServer/src/github.com/gorilla/websocket
+	url = https://github.com/gorilla/websocket
+[submodule "goServer/src/github.com/improbable-eng/grpc-web"]
+	path = goServer/src/github.com/improbable-eng/grpc-web
+	url = https://github.com/improbable-eng/grpc-web
+[submodule "goServer/src/github.com/rs/cors"]
+	path = goServer/src/github.com/rs/cors
+	url = https://github.com/rs/cors
+[submodule "goServer/src/github.com/soheilhy/cmux"]
+	path = goServer/src/github.com/soheilhy/cmux
+	url = https://github.com/soheilhy/cmux
+[submodule "goServer/src/golang.org/x/net"]
+	path = goServer/src/golang.org/x/net
+	url = https://go.googlesource.com/net/
+[submodule "goServer/src/golang.org/x/sys"]
+	path = goServer/src/golang.org/x/sys
+	url = https://go.googlesource.com/sys
+[submodule "goServer/src/golang.org/x/text"]
+	path = goServer/src/golang.org/x/text
+	url = https://go.googlesource.com/text
+[submodule "goServer/src/google.golang.org/grpc-review"]
+	path = goServer/src/google.golang.org/grpc-review
+	url = https://go.googlesource.com/grpc-review
+[submodule "goServer/src/google.golang.org/genproto"]
+	path = goServer/src/google.golang.org/genproto
+	url = https://github.com/googleapis/go-genproto
+[submodule "goServer/src/github.com/go-sql-driver/mysql"]
+	path = goServer/src/github.com/go-sql-driver/mysql
+	url = https://github.com/go-sql-driver/mysql
+[submodule "goServer/src/google.golang.org/grpc"]
+	path = goServer/src/google.golang.org/grpc
+	url = https://github.com/grpc/grpc-go
+[submodule "goServer/src/github.com/tus/tusd"]
+	path = goServer/src/github.com/tus/tusd
+	url = https://github.com/tus/tusd/
+[submodule "goServer/src/github.com/bmizerany/pat"]
+	path = goServer/src/github.com/bmizerany/pat
+	url = https://github.com/bmizerany/pat
+[submodule "goServer/src/google.golang.org/api"]
+	path = goServer/src/google.golang.org/api
+	url = https://github.com/googleapis/google-api-go-client
+[submodule "goServer/src/golang.org/x/oauth2"]
+	path = goServer/src/golang.org/x/oauth2
+	url = https://github.com/golang/oauth2
+[submodule "goServer/src/github.com/disintegration/imaging"]
+	path = goServer/src/github.com/disintegration/imaging
+	url = https://github.com/disintegration/imaging
+[submodule "goServer/src/golang.org/x/sync"]
+	path = goServer/src/golang.org/x/sync
+	url = https://github.com/golang/sync
+[submodule "goServer/src/golang.org/x/image"]
+	path = goServer/src/golang.org/x/image
+	url = https://github.com/golang/image
+[submodule "goServer/src/gopkg.in/robfig/cron.v3"]
+	path = goServer/src/gopkg.in/robfig/cron.v3
+	url = https://github.com/robfig/cron
